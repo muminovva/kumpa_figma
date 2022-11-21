@@ -1,0 +1,476 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+}
+nav{
+    background: #000000;
+}
+
+.nike{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+   
+}
+.ejedne{
+    padding-top: 14px;
+    padding-left: 6px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin-right: 100px;
+
+}
+.list_iteam{
+    padding-top: 14px;
+    list-style: none;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    flex: none;
+    order: 6;
+    flex-grow: 0;
+    }
+.ux{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.voyti{
+    padding-left: 8px;
+    padding-top: 14px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+#voyte{
+    margin-left: 355px;
+}
+.logo{
+    background: none;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+#five{
+    margin-top: 10px;
+}
+input{
+    border: 1px solid #E8E8E8;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding-left: 35px;
+}
+.position{
+    position: relative;
+}
+.fa-solid{
+    position: absolute;
+    top: -20px;
+    left: 8px;
+    color: #ACACAC;
+}
+.obshiy{
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.fa-brands{
+    color: #63BFBE;
+    padding-right: 10px;
+    margin-top: 5px;
+}
+.zvanok{
+    margin-top: 5px;
+    color: #63BFBE;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line:underline;
+    margin-left: 20px;
+}
+.tel{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+.section{
+    background: url(./img/bac.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.dlya{
+    width: 700px;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 120%;
+    color: #FFFFFF;
+    margin-top: 195px;
+}
+.btn1{
+    margin-top: 40px;
+    border: none;
+    padding: 16px 60px 16px 30px;
+    margin-bottom: 253px;
+    background: #63BFBE;
+    box-shadow: 0px 6px 14px rgba(88, 76, 42, 0.2);
+    color: #FFFFFF;
+}
+
+.uk{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #FFFFFF;
+    margin-top: 12px;
+}
+.word{
+    padding-bottom: 38px;
+    padding-top: 18px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+}
+.r-2{
+    padding-top: 39px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 69px;
+}
+.section1{
+    background: #F5F5F5;
+}
+.ideya{
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 120%;
+    color: #000000;
+    width: 400px;
+    padding-top: 64px;
+}
+.etix{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+    width: 500px;
+    padding-top: 32px;
+    padding-bottom: 31px;
+}
+.section2{
+    background: #63BFBE;
+}
+.kochesto{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+    padding-top: 13px;
+    padding-bottom: 49px;
+}
+.briliant{
+    padding-top: 60px;
+    margin-left: 13px;
+}
+.col-1{
+    margin-right: 50px;
+}
+#next{
+    margin-right: 70px;
+}
+.video{
+    position: relative;
+}
+.youtube{
+    position: absolute;
+    top: 80px;
+}
+.tovar{
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 120%;
+    color: #000000;
+    width: 600px;
+    margin-top: 64px;
+}
+.peredayti{
+    margin-left: 170px;
+    margin-top: 90px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+.stol{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #ACACAC;
+}
+span{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color:black;
+}
+.pound{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+   
+}
+.papka{
+    margin-top: 10px;
+  margin-left: -115px;
+}
+.zakaz{
+    border: 1px solid #E3E3E3;
+   background: white;
+   padding: 12px 120px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #63BFBE;
+    margin-bottom: 72px;
+
+}
+.section3  {
+    background: #E3E3E3;;
+}
+.card{
+    border-radius: none;
+}
+.img-41{
+    width: 303px;
+}
+.nashi{
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 120%;
+    color: #FFFFFF;
+    padding-top: 26px;
+   padding-left: 111px;
+   padding-right: 160px;
+  
+}
+.vse{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #FFFFFF;
+    padding-left: 111px;
+    padding-bottom: 26px;
+}
+.sold{
+    background: #63BFBE;
+   width: 700px;
+   margin-top: 72px;
+   display: block;
+}
+.rec-46{
+    margin-left: 150px;
+    margin-top: -168px;
+}
+.orginal{
+    margin-top: -168px;
+    margin-left: 150px;
+}
+.group{
+    margin-left: 150px;
+    margin-top: 10px;   
+}
+.kak{
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 120%;
+    color: #000000;
+    margin-top: 48px;
+    margin-bottom: 40px;
+}
+.raqam{
+    font-weight: 300;
+    font-size: 72px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    color: #63BFBE;
+}
+.sayt{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+    width: 200px;
+}
+ .section5 .card{
+    display: flex;
+    align-items: flex-start;
+   padding-left: 24px;
+}
+.input{
+    margin-top: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.05);
+}
+.input1{
+    margin-top: 18px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.05);
+}
+.btn1{
+    margin-top: 18px;
+    background: #63BFBE;
+    box-shadow: 0px 6px 14px rgba(88, 76, 42, 0.2);
+    padding: 16px 90px;
+    margin-bottom: none;
+}
+.usloviya{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #767676;
+    margin-top: -226px;
+}
+.politiki{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #63BFBE;
+}
+.stop{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+    width: 300px;
+}
+#care{
+    margin-top: 30px;
+}
+#car{
+    margin-top: 30px;
+}
+.section4{
+    background: #F0F0F0;
+}
+.resheniya{
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 120%;
+    color: #000000;
+    width: 500px;
+    margin-top: 52px;
+}
+.vsee{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+    margin-left: 35px;
+    margin-top: 80px;
+}
+.provilno{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+    margin-top: 16px;
+}
+.year{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #ACACAC;
+}
+.img-png{
+    width: 415px;
+    margin-left: -25px;
+}
+.section5 .card{
+    margin-bottom: 80px;
+}
+.section5{
+    background: #F5F5F5;
+}
+.prava{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #767676;
+    margin-top: 24px;
+}
+.kumpaa{
+    margin-top: 40px;
+}
+.paragraph{
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+.piko{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+}
+.fa-solid{
+    color: #63BFBE;
+}
+.raqamlar{
+    color: #63BFBE;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line:underline;
+}
+.bed{
+    display: flex;
+    justify-content: start;
+    margin-top: 16px;
+}
+.info{
+    margin-top: -5px;
+    margin-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #767676;
+
+}
+.fa-regular{
+    color: #ACACAC;
+}
+.vec6{
+    width: 20px;
+    height: 20px;
+}
+.frame8{
+    margin-bottom: 74px;
+    margin-top: 20px;
+}
+.btn1 a{
+    color: white;
+    text-decoration: none;
+}
