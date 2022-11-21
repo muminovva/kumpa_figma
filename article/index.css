@@ -1,0 +1,250 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+}
+nav{
+    background: #000000;
+}
+
+.nike{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+   
+}
+.ejedne{
+    padding-top: 14px;
+    padding-left: 6px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin-right: 100px;
+
+}
+.list_iteam{
+    padding-top: 14px;
+    list-style: none;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    flex: none;
+    order: 6;
+    flex-grow: 0;
+    }
+.ux{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.voyti{
+    padding-left: 8px;
+    padding-top: 14px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+#voyte{
+    margin-left: 355px;
+}
+.logo{
+    background: none;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+#text{
+    margin-top: 10px;
+}
+#text1{
+    margin-top: 10px;
+}
+input{
+    border: 1px solid #E8E8E8;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding-left: 35px;
+   
+}
+.position{
+    position: relative;
+}
+.fa-solid{
+    position: absolute;
+    top: -20px;
+    left: 8px;
+    color: #ACACAC;
+}
+.obshiy{
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+}
+.fa-brands{
+    color: #63BFBE;
+    padding-right: 10px;
+    margin-top: 5px;
+}
+.zvanok{
+    margin-top: none;
+    color: #63BFBE;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line:underline;
+    margin-left: 20px;
+}
+.tel{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border: none;
+    margin-top: 24px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.05);
+}
+.peregorodki{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #63BFBE;
+   
+    padding: 24px 75px 18px 20px;
+}
+.peregorodki1{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: black;
+   
+    padding: 24px 75px 18px 20px;
+}
+.vector2{
+    width: 24px;
+    height: 24px;
+    margin-top: 20px;
+}
+section{
+    background: #E3E3E3;
+}
+.ulx{
+    display: flex;
+    justify-content: center;
+}
+.list-iteam{
+    list-style: none;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.list-iteam a{
+    color: #000000;
+}
+#mega{
+    color: #ACACAC;
+}
+.resheniya{
+font-weight: 700;
+font-size: 32px;
+line-height: 140%;
+color: #000000;
+width: 600px;
+
+}
+.provilno{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+    margin-top: 16px;
+    margin-left: 16px;
+}
+.year{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #ACACAC;
+    margin-left: 16px;
+}
+.img-png{
+    width: 415px;
+    margin-left: -1px;
+}
+ .card{
+    margin-bottom: 80px;
+    margin-top: 32px;
+}
+.prava{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #767676;
+    margin-top: 24px;
+}
+.kumpaa{
+    margin-top: 40px;
+}
+.paragraph{
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+.piko{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+}
+.fa-solid{
+    color: #63BFBE;
+}
+.raqamlar{
+    color: #63BFBE;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line:underline;
+}
+.bed{
+    display: flex;
+    justify-content: start;
+    margin-top: 16px;
+}
+.info{
+    margin-top: -5px;
+    margin-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #767676;
+
+}
+.fa-regular{
+    color: #ACACAC;
+}
+.vec6{
+    width: 20px;
+    height: 20px;
+}
+.frame8{
+    margin-bottom: 74px;
+    margin-top: 20px;
+}
+
